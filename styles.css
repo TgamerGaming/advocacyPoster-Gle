@@ -8,5 +8,5 @@
   grid-gap: 100px;
 }
 .cell{
-  background-image: linar-gradient(rgba(255, 0, 0, 1), rgba(0, 0, 0, 1), rgba(255, 0, 0, 1));
+  background-image: linear-gradient(rgba(255, 0, 0, 1), rgba(0, 0, 0, 1), rgba(255, 0, 0, 1));
 }
